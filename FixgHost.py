@@ -55,7 +55,7 @@ def keep_alive():
 TOKEN = "8717843175:AAF8X7yq3ziFY_0762FHL4I5gA3yL7TyW8Y"
 OWNER_ID = 8069902198
 ADMIN_ID = 8548846656
-YOUR_USERNAME = "@ZENXFIXING_009"
+YOUR_USERNAME = "@FXZFIXING"
 UPDATE_CHANNEL = "https://t.me/Namber_Channel1"
 
 # --- Binance Pay Integration Config ---
